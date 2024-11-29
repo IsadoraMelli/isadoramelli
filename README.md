@@ -64,6 +64,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif?cid=ecf05e475u6wnaph7m2hnpbexwvj1abnyy2gx9zy4ymtr1gv&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<center><img align="right" height="150" src="https://media.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif?cid=ecf05e475u6wnaph7m2hnpbexwvj1abnyy2gx9zy4ymtr1gv&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /></center>
+
 
 ###
