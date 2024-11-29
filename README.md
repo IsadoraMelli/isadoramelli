@@ -1,4 +1,4 @@
-### Olá! Me chamo Isadora Melli 🤩
+### Olá, sou a Isadora ⋆
 
 
 <h2 align="left">Sobre mim</h2>
